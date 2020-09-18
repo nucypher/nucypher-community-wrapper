@@ -1,0 +1,2 @@
+// place wrapped app in this directory
+// BEWARE: this is unsafe location, everything placed here is accessible outside
