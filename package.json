@@ -1,0 +1,11 @@
+{
+  "name": "nucypher-community-wrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nucypher/nucypher-community-wrapper.git",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1"
+  }
+}
